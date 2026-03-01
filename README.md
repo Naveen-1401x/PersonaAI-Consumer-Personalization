@@ -67,3 +67,9 @@ PersonaAI can leverage AMD high-performance processors and GPUs to accelerate:
 - model/ → Clustering logic
 - dataset/ → Sample behavioral data
 - docs/ → PPT and architecture diagrams
+
+---
+
+## Prototype Assets
+
+PPT Deck: [View Presentation](./docs/PersonaAI_AMD_Slingshot_Prototype.pdf)
